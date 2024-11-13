@@ -99,10 +99,10 @@ img {
   border-radius: 8px;
 }
 
-img:hover {
+/* img:hover {
   transform: scale(0.5);
   opacity: 0.9;
-}
+} */
 footer {
   padding: 40px 0;
 }
